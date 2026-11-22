@@ -55,6 +55,21 @@
       ],
       "ast": [
         "aggregate/ast/ae480398120a0e753048dcf03dfeb2f6882c15aa/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ae480398120a0e753048dcf03dfeb2f6882c15aa.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cfg-if",
+          "ecosystem": "CARGO",
+          "version": "1.0.4",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cfg-if",
+          "githubCommit": "3510ca6abea34cbbc702509a4e50ea9709925eda",
+          "githubTag": "v1.0.4",
+          "githubUrl": "https://github.com/rust-lang/cfg-if",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cfg-if-1.0.4/src/lib.rs"
+        }
       ]
     }
   ],
